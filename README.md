@@ -6,11 +6,11 @@
 
 ## 👥 Miembros del Equipo
 
-| Nombre | Rol |
-|--------|-----|
-| *(Añade aquí los nombres del equipo)* | Desarrollador/a Backend |
-| *(Añade aquí los nombres del equipo)* | Desarrollador/a Frontend |
-| *(Añade aquí los nombres del equipo)* | Arquitecto/a de Datos |
+| Nombres |
+|--------|
+| *ALAIA YEREGUI* | 
+| *ASIER SÁNCHEZ* | 
+
 
 ---
 
